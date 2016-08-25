@@ -16,17 +16,31 @@ By the end of this lesson, you will know/be able to:
 
 Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge, often unappreciated, part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use.
 
-As with any craft, there is quite a bit that goes into successful typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not is has serifs.
+As with any craft, there is quite a bit that goes into typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not is has serifs.
 
 ### Font vs Typeface
 
-You've probably heard these two terms tossed around and used interchangebly, but they're actually two different things. A font is not a typeface and a typeface is not a font.
+You've probably heard these two terms tossed around and used interchangeably, but they're actually two different things. A font is not a typeface and a typeface is not a font. Knowing the difference is the first step in understanding typography, so let's talk about what that is:
+
+##### Typeface
+
+A typeface is a collection of fonts. It is made up of the grouping of various italic, bold, thin weights that a type designer has recreated to give variation to their work.
+
+You select a typeface and then use the fonts within it.
+
+For example, the typeface Helvetica has Light, Bold, and Oblique fonts. You might you a bold font for headers, a light font for body copy, and an oblique (or italic) font for pull quotes.
+
+##### Font
+
+A font is each specific variation within a typeface. So, when we go to Google Fonts we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the past when the printed page was how text was used most, the fonts were what were actually used to print the typeface.
+
+For a deeper walk through, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
 
 ### Anatomy of a Letterform
 
 Perhaps unsurprisingly, there are many typographic terms that come in handy when discussing letters in any amount of detail. Let's go over a few key terms that can help you speak type.
 
-![type terms 1](images/type01.svg)
+![type terms 1](images/type01.png)
 
 ##### Cap Height
 The height of a capital letter measured from the baseline.
@@ -36,18 +50,20 @@ The height of lowercase letters from the baseline, typically based on the height
 
 ##### Baseline
 
-
+The line that all characters sit on, and the point from which x-height and cap height are measured.
 
 ##### Stem
+
+
 
 ##### Serif
 
 ##### Finial
 
 
-![type term image reference 2](images/type02.svg)
-![type term image reference 3](images/type03.svg)
-![type term image reference 4](images/type04.svg)
+![type terms 2](images/type02.png)
+![type terms 3](images/type03.png)
+![type terms 4](images/type04.png)
 
 
 #### Guided Practice (We do)
