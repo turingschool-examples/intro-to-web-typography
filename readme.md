@@ -85,10 +85,17 @@ When two or more characters are joined to form one character. Ligatures can repr
 
 The open space in a fully closed, or mostly close, letter, like "o" and "c". Some will say a counter only refers to a closed space, and refer to the the partially closed space in a "c" as an open counter.
 
-
-
 ![type terms 4](images/type04.png)
 
+##### Ascender
+
+The upward vertical stroke on a lowercase letter that extends upwards above the letter's x-height. Lowercase "b" and "h" are examples of letters with ascenders.
+
+##### Descender
+
+The downward vertical stroke and falls below the baseline. Lowercase "g" and "p" are examples of letters with descenders.
+
+For a comprehensive and in-depth look at the anatomy of a letterform, take a look at [Typography Deconstructed](http://www.typographydeconstructed.com/).
 
 #### Guided Practice (We do)
 
