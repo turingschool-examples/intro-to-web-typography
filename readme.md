@@ -26,7 +26,7 @@ You've probably heard these two terms tossed around and used interchangebly, but
 
 Perhaps unsurprisingly, there are many typographic terms that come in handy when discussing letters in any amount of detail. Let's go over a few key terms that can help you speak type.
 
-![type term image reference 1](../images/type01.svg)
+![type term image reference 1](images/type01.svg)
 
 ##### Cap Height
 The height of a capital letter measured from the baseline.
@@ -45,9 +45,9 @@ The height of lowercase letters from the baseline, typically based on the height
 ##### Finial
 
 
-![type term image reference 2](../images/type02.svg)
-![type term image reference 3](../images/type03.svg)
-![type term image reference 4](../images/type04.svg)
+![type term image reference 2](images/type02.svg)
+![type term image reference 3](images/type03.svg)
+![type term image reference 4](images/type04.svg)
 
 
 #### Guided Practice (We do)
