@@ -36,7 +36,7 @@ A font is each specific variation within a typeface. So, when we go to Google Fo
 
 For a deeper walk through, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
 
-#### Serif vs Sans Serif
+### Serif vs Sans Serif
 
 There are two primary classifications of typefaces: serif and sans serif. A serif is, basically, a small line added at the end of a stroke in a letter. Sans serif is simply a letterform without a serif.
 
@@ -85,6 +85,11 @@ When two or more characters are joined to form one character. Ligatures can repr
 
 The open space in a fully closed, or mostly close, letter, like "o" and "c". Some will say a counter only refers to a closed space, and refer to the the partially closed space in a "c" as an open counter.
 
+
+##### Bowl
+
+The fully closed, rounded part of a letter.
+
 ![type terms 4](images/type04.png)
 
 ##### Ascender
@@ -97,39 +102,8 @@ The downward vertical stroke and falls below the baseline. Lowercase "g" and "p"
 
 For a comprehensive and in-depth look at the anatomy of a letterform, take a look at [Typography Deconstructed](http://www.typographydeconstructed.com/).
 
-#### Guided Practice (We do)
+### Resources
 
-* instructor and students both "doing"
-* Examples: code-along, hot seat, discussion, question/answer, students telling instructor what to write, students pairing with close guidance from instructor
+[Smashing Magazine article](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
 
-#### Independent/Pair Practice (You do)
-
-* students "doing", instructor available as lifeline
-* Examples: questions in a Gist, implementing feature, creating diagram
-
-#### The Closing: ~5 min
-
-* Check for understanding
-* Discuss any clarifications or student misconceptions
-* Review goals, further resources, and next steps
-
-### Possible questions and/or misunderstandings
-
-* What questions might students ask during class, and how will you respond?
-* What concepts might students misunderstand, and why?
-
-### Slides
-
-* [Link to optional slides]()
-
-### Video
-
-* [Link to optional video]()
-
-### Repository
-
-* [Link to optional repo]()
-
-### Outside Resources / Further Reading
-
-* [Link to first outside resource]()
+[Typography Deconstructed](http://www.typographydeconstructed.com/)
