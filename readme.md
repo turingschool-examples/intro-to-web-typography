@@ -8,9 +8,9 @@ tags: typography, design
 
 By the end of this lesson, you will know/be able to:
 
+* Understand the different between typeface and font
+* Understand the different between serif and sans serif
 * Have an understanding of the structure of letterforms
-* Understand how to select font pairs
-* Be a just a really huge nerd
 
 ### What is Typography
 
