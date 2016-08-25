@@ -1,5 +1,5 @@
 ---
-title: Introduction to Web Typography
+title: Introduction to Typography
 length:
 tags: typography, design
 ---
@@ -108,6 +108,8 @@ For a comprehensive and in-depth look at the anatomy of a letterform, take a loo
 
 [Smashing Magazine: Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
 
-[Smashing Magazine:Tools And Resources For A More Meaningful Web Typography ](https://www.smashingmagazine.com/2016/03/meaningful-web-typography/)
+[Smashing Magazine: Tools And Resources For A More Meaningful Web Typography ](https://www.smashingmagazine.com/2016/03/meaningful-web-typography/)
+
+[Thinking with Type: Letter](http://www.thinkingwithtype.com/contents/letter/)
 
 [Typography Deconstructed](http://www.typographydeconstructed.com/)
