@@ -36,6 +36,16 @@ A font is each specific variation within a typeface. So, when we go to Google Fo
 
 For a deeper walk through, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
 
+#### Serif vs Sans Serif
+
+There are two primary classifications of typefaces: serif and sans serif. A serif is, basically, a small line added at the end of a stroke in a letter. Sans serif is simply a letterform without a serif.
+
+![type terms 3](images/type03.png)
+
+Serif fonts are seen in historic documents and type examples, and were used in everything from text chiseled into stone by the Romans to the manuscripts produced by the first printing presses. It is commonly thought that serifs increase legibility in large, printed blocks of text because the serifs lead the eye from letter to letter within words.
+
+Sans serif fonts are a more modern approach to type design, and can be seen in the famous Swiss Style of the 20th Century. Despite the name, this style gained traction not only in Switzerland but in Russia, Germany, and the Netherlands in the 1920's before becoming a true international movement in the 1960's. In an effort to find beauty in purpose and simplicity, sans serif typefaces were created to follow the idea that "form follows function". These principles are highly relevant to the web, and this [Smashing Magazine article](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/) is a fantastic dive into the history and modern applications of sans serif typefaces and the deep reaching influences of Swiss, or more correctly, International Style.
+
 ### Anatomy of a Letterform
 
 Perhaps unsurprisingly, there are many typographic terms that come in handy when discussing letters in any amount of detail. Let's go over a few key terms that can help you speak type.
@@ -54,15 +64,29 @@ The line that all characters sit on, and the point from which x-height and cap h
 
 ##### Stem
 
-
+The main, full length vertical stroke in most characters.
 
 ##### Serif
 
+The extra stroke at the beginning and end of vertical and horizontal strokes of letterforms.
+
 ##### Finial
+
+A tapered end of a letter, as seen on letters like "c" and "e".
 
 
 ![type terms 2](images/type02.png)
-![type terms 3](images/type03.png)
+
+##### Ligature
+
+When two or more characters are joined to form one character. Ligatures can represent specific sounds but are often simply used to create more appealing and legible text.
+
+##### Counter
+
+The open space in a fully closed, or mostly close, letter, like "o" and "c". Some will say a counter only refers to a closed space, and refer to the the partially closed space in a "c" as an open counter.
+
+
+
 ![type terms 4](images/type04.png)
 
 
