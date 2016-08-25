@@ -14,7 +14,7 @@ By the end of this lesson, you will know/be able to:
 
 ### What is Typography
 
-Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge, often unappreciated, part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use.
+Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use.
 
 As with any craft, there is quite a bit that goes into typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not it has serifs.
 
@@ -30,13 +30,13 @@ You select a typeface and then use the fonts within it.
 
 For example, the typeface Helvetica has Light, Bold, and Oblique fonts. You might you a bold font for headers, a light font for body copy, and an oblique (or italic) font for pull quotes.
 
-![type terms 5](images/type05.png)
-
 ##### Font
 
 A font is each specific variation within a typeface. So, when we go to Google Fonts we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the past when the printed page was how text was used most, the fonts were what were actually used to print the typeface.
 
-For a deeper walk through, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
+![type terms 5](images/type05.png)
+
+For a look at this topic from a designer's point of view, read [this post](http://www.aiga.org/theyre-not-fonts/) from AIGA.
 
 ### Serif vs Sans Serif
 
