@@ -32,7 +32,7 @@ For example, the typeface Helvetica has Light, Bold, and Oblique fonts. You migh
 
 ##### Font
 
-A font is each specific variation within a typeface. So, when we go to Google Fonts we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the past when the printed page was how text was used most, the fonts were what were actually used to print the typeface.
+A font is each specific variation within a typeface. So, when we go to Google Fonts we choose a typeface like [Raleway](https://fonts.google.com/specimen/Raleway) and then select which fonts we actually want our page to load. In the context of printed text, fonts are what is actually used to print the text.
 
 ![type terms 5](images/type05.png)
 
