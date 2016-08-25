@@ -16,7 +16,7 @@ By the end of this lesson, you will know/be able to:
 
 Typography is a cornerstone of graphic design. The way we arrange letters and words on a screen is a huge, often unappreciated, part of how we communicate with users. Design is all about people and communication, and the words we choose and how we arrange them are arguably even more important then the images and colors we use.
 
-As with any craft, there is quite a bit that goes into typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not is has serifs.
+As with any craft, there is quite a bit that goes into typography that may not be apparent to the end user. People build entire careers around designing and building typefaces, and there is a lot more to a letterform than whether or not it has serifs.
 
 ### Font vs Typeface
 
@@ -104,6 +104,10 @@ For a comprehensive and in-depth look at the anatomy of a letterform, take a loo
 
 ### Resources
 
-[Smashing Magazine article](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
+[Smashing Magazine: The Good, The Bad And The Great Examples Of Web Typography](https://www.smashingmagazine.com/2014/12/the-good-the-bad-and-the-great-examples-of-web-typography/)
+
+[Smashing Magazine: Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
+
+[Smashing Magazine:Tools And Resources For A More Meaningful Web Typography ](https://www.smashingmagazine.com/2016/03/meaningful-web-typography/)
 
 [Typography Deconstructed](http://www.typographydeconstructed.com/)
